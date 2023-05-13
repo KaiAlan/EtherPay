@@ -4,6 +4,8 @@ EtherPay is a web application that allows users to send and receive Ether. It is
 
 <a href="https://ibb.co/s59qVMS"><img src="https://i.ibb.co/s59qVMS/Screenshot-2023-05-09-162908.png" alt="Screenshot-2023-05-09-162908" border="0"></a>
 
+## Site is Live @ etherpay-kai.netlify.app
+
 ### Getting Started
 
 To get started with EtherPay, you will need to:
