@@ -2,7 +2,7 @@
 
 EtherPay is a web application that allows users to send and receive Ether. It is a simple and easy-to-use platform that is perfect for both beginners and experienced crypto users. EtherPay is also secure and reliable, making it a great choice for anyone looking to send or receive Ether.
 
-![site](https://ibb.co/s59qVMS)
+<a href="https://ibb.co/s59qVMS"><img src="https://i.ibb.co/0ByrGdN/Screenshot-2023-05-09-162908.png" alt="Screenshot-2023-05-09-162908" border="0"></a>
 
 ### Getting Started
 
